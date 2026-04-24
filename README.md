@@ -19,7 +19,7 @@ Forward Kinematics (Mobile Base + Arm Control)
 Control the robot’s base motion (linear and angular movement) along with the manipulator joint angles using sliders to visualize the full system configuration in real time.
 
 
-![image alt](https://github.com/aAfeworki/Differential-Drive-Mobile-Manipulator-FK-Simulator/blob/b5cebababfff63915a7f39ac61515a50849aebd0/Ackermann%20Drive%20with%20manipulator%20Forward%20Kinemtaics%20Simulator.png)
+![image alt](https://github.com/aAfeworki/Differential-Drive-Mobile-Manipulator-FK-Simulator/blob/4c135a25d67eaf3176f042bceff3332355876a99/Differential%20Drive%20with%20a%20Manipulator%20Forward%20Kinematics%20Simulator.png)
 
 
 🎯 Applications
